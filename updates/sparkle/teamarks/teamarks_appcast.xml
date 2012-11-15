@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
    <channel>
       <title>Teamarks OSX Changelog</title>
-      <link>http://you.com/app/appcast.xml</link>
+      <link>http://ultragtx.github.com/updates/sparkle/teamarks/teamarks_appcast.xml</link>
       <description>Most recent changes with links to updates.</description>
       <language>en</language>
 	  
 	  <item>
 	      <title>Version 0.11 (2 bugs fixed; 3 new features)</title>
 	      <sparkle:releaseNotesLink>
-	          http://you.com/app/2.0.html
+	          http://ultragtx.github.com/updates/sparkle/teamarks/teamarks_0.11.html
 	      </sparkle:releaseNotesLink>
-	      <pubDate>Wed, 09 Jan 2006 19:20:11 +0000</pubDate>
-	      <enclosure url="http://you.com/app/Your Great App 2.0.zip"
+	      <pubDate>Wed, 14 Nov 2012 19:20:11 +0000</pubDate>
+	      <enclosure url="http://ultragtx.github.com/updates/sparkle/teamarks/binary/teamarks_0.11.app.zip"
 	                 sparkle:version="2.0"
-	                 sparkle:dsaSignature="MC0CFBfeCa1JyW30nbkBwainOzrN6EQuAh="
-	                 length="1623481"
+	                 sparkle:dsaSignature="MC0CFHQRZQkYX8Inhjy6kIsZVa7XrqfXAhUAhVlLuXs1wh7qeVHOEeGn+aOUdc0="
+	                 length="99090"
 	                 type="application/octet-stream" />
 	  </item>
 	  
