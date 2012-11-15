@@ -13,7 +13,7 @@
 	      </sparkle:releaseNotesLink>
 	      <pubDate>Wed, 14 Nov 2012 19:20:11 +0000</pubDate>
 	      <enclosure url="http://ultragtx.github.com/updates/sparkle/teamarks/binary/teamarks_0.11.app.zip"
-	                 sparkle:version="0.11"
+	                 sparkle:version="0.2"
 	                 sparkle:dsaSignature="MCwCFEupUICUeCF9/nGkpGsZiFFAVJ/+AhQFkV9zgF8+6qq73xPiRKWHAt0j8Q=="
 	                 length="506928"
 	                 type="application/octet-stream" />
