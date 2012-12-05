@@ -20,7 +20,7 @@
         </item>
         
         <item>
-            <title>Version 0.22 (1 bugs fixed; 0 new features)</title>
+            <title>Version 0.21 (1 bugs fixed; 0 new features)</title>
             <sparkle:releaseNotesLink>
                 http://ultragtx.github.com/updates/sparkle/teamarks/teamarks_0.21.html
             </sparkle:releaseNotesLink>
@@ -29,6 +29,19 @@
             sparkle:version="0.21"
             sparkle:dsaSignature="MC0CFQCTLPPwBJq+8eRrRkh0lgfQS8zxAwIUZXF0C4QyWR3be3GsGQEnaoJaWA8="
             length="507006"
+            type="application/octet-stream" />
+        </item>
+        
+        <item>
+            <title>Version 0.22 (1 bugs fixed; 0 new features)</title>
+            <sparkle:releaseNotesLink>
+                http://ultragtx.github.com/updates/sparkle/teamarks/teamarks_0.21.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Wed, 05 Dec 2012 09:28:54 +8000</pubDate>
+            <enclosure url="https://github.com/downloads/ultragtx/ultragtx.github.com/Teamarks_0.22.app.zip"
+            sparkle:version="0.22"
+            sparkle:dsaSignature="MC0CFQCEKgiFxW1cP5SpnfNMEATc2JIyvQIUYo9guIyuy98LMcjlOguaCxGTKgQ="
+            length="505474"
             type="application/octet-stream" />
         </item>
         
